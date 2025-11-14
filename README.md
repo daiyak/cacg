@@ -2,6 +2,7 @@
 
 * [W3C Cybernetic Avatar Community Group](https://www.w3.org/community/cacg/)
 * W3C TPAC 2025 breakout session [Introducing the Cybernetic Avatar Community Group: Extending Human Presence through the Internet](https://www.w3.org/events/meetings/eb45163d-e184-4ace-b7e3-900816a75c36/) (2025/Nov/12 11:15-12:15 JST)
+* W3C Slack Channel \#cacg
 
 ## Overview
 
