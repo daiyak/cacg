@@ -23,4 +23,5 @@ We are currently in the process of forming the Cybernetic Avatar Community Group
 ## Publications
 
 * [TPAC 2026 Breakout Session – Presentation](https://daiyak.github.io/cacg/tpac2026.html)
+* [COMPSAC 2026 – Paper](https://xplorestaging.ieee.org/document/11645425?denied=)
 * [Use Cases and Requirements](usecase.html)
