@@ -5,7 +5,7 @@
 * W3C Slack Channel \#cacg
 
 ## Recent
-* [TPAC 2026 Breakout Session – Presentation]([tpac2026.html](https://daiyak.github.io/cacg/tpac2026.html))
+* [TPAC 2026 Breakout Session – Presentation](https://daiyak.github.io/cacg/tpac2026.html)
 
 ## Overview
 
@@ -22,5 +22,5 @@ We are currently in the process of forming the Cybernetic Avatar Community Group
 
 ## Publications
 
-* [TPAC 2026 Breakout Session – Presentation]([tpac2026.html](https://daiyak.github.io/cacg/tpac2026.html))
+* [TPAC 2026 Breakout Session – Presentation](https://daiyak.github.io/cacg/tpac2026.html)
 * [Use Cases and Requirements](usecase.html)
